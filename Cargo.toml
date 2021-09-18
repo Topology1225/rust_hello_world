@@ -7,3 +7,4 @@ edition = "2018"
 
 [dependencies]
 proconio = "0.4.3"
+ndarray = "0.15.0"
